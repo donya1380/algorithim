@@ -1,0 +1,14 @@
+variables
+number
+process
+if (number<1)
+print no factorial
+number +=1
+process again
+if (number>=1)
+write all the numbers before it
+while number = 1
+stop
+times numbers
+output
+number = timesed numbers
