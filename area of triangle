@@ -1,0 +1,7 @@
+declare 
+K = ½ bh, where K is the area of the triangle, b is the base of the triangle, and h is the height
+INPUT b=1,h=3
+proccess
+k = (1 x 3) / 2
+
+
