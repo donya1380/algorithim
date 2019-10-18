@@ -1,1 +1,7 @@
-
+output
+var C
+var F
+process
+C = F*33.8
+output
+print C
