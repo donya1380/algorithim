@@ -1,1 +1,7 @@
-
+declare
+var F
+var C
+process
+F= C*-17.222222
+output
+print F
