@@ -1,1 +1,7 @@
-
+declare
+var kg
+var pound
+process
+pound= kg*2.2
+output
+print kg
